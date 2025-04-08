@@ -6,7 +6,7 @@ A simple yet fun Tic-Tac-Toe game where you play against an AI opponent using Ja
 
 ## 🚀 Play the Game
 
-👉 **[Click here to play live]**https://codewith68.github.io/Tic-Tac-Toe-js/**
+👉 [**[Click here to play live]**https://codewith68.github.io/Tic-Tac-Toe-js/**](https://codewith68.github.io/Tic-Tac-Toe-js/)
 
 No installation needed — just open the link in your browser and enjoy!
 
