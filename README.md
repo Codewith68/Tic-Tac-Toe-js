@@ -8,6 +8,8 @@ A simple yet fun Tic-Tac-Toe game where you play against an AI opponent using Ja
 
 👉 [**[Click here to play live]**https://codewith68.github.io/Tic-Tac-Toe-js/**](https://codewith68.github.io/Tic-Tac-Toe-js/)
 
+the second one tic tac toe.js is console based very simple 
+
 No installation needed — just open the link in your browser and enjoy!
 
 ---
